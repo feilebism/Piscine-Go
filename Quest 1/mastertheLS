@@ -1,0 +1,3 @@
+#! /bin/bash
+
+ls -Amtp | sed 's/ //g'
